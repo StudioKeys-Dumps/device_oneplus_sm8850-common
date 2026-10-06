@@ -6,4 +6,7 @@
 <resources>
     <!-- Max network scan search time in seconds -->
     <integer name="config_network_scan_helper_max_search_time_sec">254</integer>
+
+    <!-- CPU name -->
+    <string name="config_cpu_name" translatable="false">Qualcomm Snapdragon 8 Elite Gen 5</string>
 </resources>
